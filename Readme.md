@@ -3,23 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Snake animation effect */
-    .snake-container {
-      display: flex;
-      justify-content: center;
-      margin-bottom: 30px;
-    }
-    .snake {
-      width: 600px;
-      max-width: 100%;
-      animation: slither 10s linear infinite;
-    }
-    @keyframes slither {
-      0% { transform: translateX(-100%); }
-      100% { transform: translateX(100%); }
-    }
-  </style>
+  <title>Sahil Dubey | GitHub Profile</title>
 </head>
 <body style="background-color:#0d1117; color:#ffffff; font-family:Arial, sans-serif;">
 
@@ -31,14 +15,11 @@
 
   <h3 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h3>
 
+
+
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey1930&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
-
-  <h3>🐍 Contribution Snake That Eats My Repo</h3>
-  <div class="snake-container">
-    <img class="snake" src="https://raw.githubusercontent.com/sahildubey1930/sahildubey1930/output/github-contribution-grid-snake.svg" alt="snake animation">
-  </div>
 
   <h2>💫 About Me:</h2>
   <p>
@@ -96,8 +77,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey1930&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="172em" alt="Top Languages">
   </p>
 
+
+
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+
+
+
+
+
+
+
+
+
 
   <h3>🔝 Top Contributed Repo</h3>
   <p><em>(Currently having chai... ☕ check back soon 😄)</em></p>
