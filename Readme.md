@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-</head>
-<body style="background-color:#0d1117; color:#ffffff; font-family:Arial, sans-serif;">
+
 
   <h1 align="center">
     <a href="https://git.io/typing-svg" target="_blank">
@@ -32,7 +25,8 @@
   <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
   ![snake gif](https://github.com/sahildubey1930/sahildubey1930/blob/output/github-snake-dark.svg)
 </p>
-  
+
+  ![snake gif](https://github.com/sahildubey1930/sahildubey1930/blob/output/github-snake-dark.svg)
 
   <h2>💫 About Me:</h2>
   <p>
@@ -113,6 +107,3 @@
       <img src="https://visitcount.itsvg.in/api?id=sahildubey1930&icon=0&color=0" alt="Visitor Count">
     </a>
   </p>
-
-</body>
-</html>
