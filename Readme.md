@@ -23,7 +23,7 @@
 
 <p align="center">
   <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
-  ![snake gif](https://github.com/sahildubey1930/sahildubey1930/blob/output/github-snake-dark.svg)
+  
 </p>
 
   ![snake gif](https://github.com/sahildubey1930/sahildubey1930/blob/output/github-snake-dark.svg)
