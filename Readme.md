@@ -1,6 +1,22 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Sahil+Dubey;A+Passionate+Programmer;I+❤️+Coding,+Chai+and+Sports;Let's+Build+Something+Awesome!">
+  </a>
+</h1>
+
+<h3 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sahildubey1930&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
 
 # 💫 About Me:
-🧠 About Me<br>👨‍💻 All of my projects are available on GitHub<br>🏅 Currently learning Competitive Programming<br>🍵 Code with Chai best COMBO<br>⚡ Fun Fact: At the end, everything is static! 😅
+🧠 About Me<br>
+👨‍💻 All of my projects are available on GitHub<br>
+🏅 Currently learning Competitive Programming<br>
+🍵 Code with Chai best COMBO<br>
+⚡ Fun Fact: At the end, everything is static! 😅
 
 
 ## 🌐 Socials:
