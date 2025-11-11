@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sahil Dubey | GitHub Profile</title>
+ 
 </head>
 <body style="background-color:#0d1117; color:#ffffff; font-family:Arial, sans-serif;">
 
@@ -20,6 +20,7 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey1930&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
+  
 
   <h2>💫 About Me:</h2>
   <p>
@@ -46,7 +47,7 @@
     </a>
   </p>
 
-  <h2>💻 Languages And Tools:</h2>
+  <h2 align="center">💻 Languages And Tools:</h2>
   <p>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
