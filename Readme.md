@@ -3,6 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Snake animation effect */
+    .snake-container {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 30px;
+    }
+    .snake {
+      width: 600px;
+      max-width: 100%;
+      animation: slither 10s linear infinite;
+    }
+    @keyframes slither {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+  </style>
 </head>
 <body style="background-color:#0d1117; color:#ffffff; font-family:Arial, sans-serif;">
 
@@ -16,15 +33,12 @@
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey1930&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
-    
   </p>
 
   <h3>🐍 Contribution Snake That Eats My Repo</h3>
-  <p align="center">
-    <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
-  <img src="https://raw.githubusercontent.com/sahildubey1930/sahildubey1930/output/github-contribution-grid-snake.svg" alt="snake animation">
-  </p>
-
+  <div class="snake-container">
+    <img class="snake" src="https://raw.githubusercontent.com/sahildubey1930/sahildubey1930/output/github-contribution-grid-snake.svg" alt="snake animation">
+  </div>
 
   <h2>💫 About Me:</h2>
   <p>
