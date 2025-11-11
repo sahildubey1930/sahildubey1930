@@ -78,12 +78,15 @@
   </p>
 
   <h2>📊 My Stats:</h2>
-  <p align="left">
-    ![](https://github-readme-stats.vercel.app/api?username=sahildubey1930&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-    ![](https://nirzak-streak-stats.vercel.app/?user=sahildubey1930&theme=chartreuse-dark&hide_border=true)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey1930&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-  </p>
+  <div align="left">
 
+  ![](https://github-readme-stats.vercel.app/api?username=sahildubey1930&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=sahildubey1930&theme=chartreuse-dark&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey1930&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+    
+  </div>
+   
 
 
   <h3>✍️ Random Dev Quote</h3>
@@ -95,7 +98,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=sahildubey1930&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
