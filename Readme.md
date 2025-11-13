@@ -8,18 +8,11 @@
 
   <h3 align="center">💻 Developer | Programmer | CSE Undergrad | Problem Solver</h3>
 
-
-
-
-//this is profile views counters
-
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sahildubey11&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
 
 
-
-//famous snake game added
 
   ### 🐍 The Snake That Eats My Contributions  
 <p align="center">  
@@ -28,7 +21,7 @@
 
   ![snake gif](https://github.com/sahildubey11/sahildubey11/blob/output/github-snake-dark.svg)
 
-  //about me
+
 
   <h2>💫 About Me:</h2>
   <p>
@@ -38,9 +31,7 @@
     🍵 Code with Chai best COMBO<br>
     ⚡ Fun Fact: At the end, everything is static! 😅
   </p>
-
-
-
+  
 
   <h2>🌐 Socials:</h2>
   <p>
@@ -57,6 +48,8 @@
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
+
+  
 
   <h2 align="center">💻 Languages And Tools:</h2>
   <p>
@@ -82,19 +75,15 @@
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom">
   </p>
 
-  <h2>📊 My Stats:</h2>
-  
-  <p align="left">
 
+  <h2>📊 My Stats:</h2>  
+  <p align="left">
     
   <img src="https://github-readme-stats.vercel.app/api?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true" height="172em" alt="GitHub Stats">
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=sahildubey11&theme=chartreuse-dark&hide_border=true" height="172em" alt="GitHub Streak Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="172em" alt="Top Languages">
-
-
-    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildubey11&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="172em" alt="Top Languages">    
   </p>
    
 
@@ -105,10 +94,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahildubey11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
 
 
 
